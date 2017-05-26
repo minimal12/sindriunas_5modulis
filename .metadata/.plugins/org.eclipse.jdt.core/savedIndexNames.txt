@@ -1,0 +1,9 @@
+INDEX VERSION 1.130+C:\Users\min1maL\sindriûnas_5modulis\.metadata\.plugins\org.eclipse.jdt.core
+87692006.index
+3993872869.index
+30393051.index
+3942152664.index
+215069340.index
+136602273.index
+4039416150.index
+3890612639.index
